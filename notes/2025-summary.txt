@@ -1,0 +1,52 @@
+# 2025 — Developer Year Summary
+
+2025 was a year of grounding myself as a developer and engineer.
+
+Instead of chasing visibility or publishing unfinished work, I focused on **deep, practical development**: understanding how desktop software is designed, built, refined, and maintained over time.
+
+## Public Work
+
+By the end of the year, I have **two public projects** that represent my current level and direction:
+
+- **Vision Compass** — a minimalist goal and task navigation tool built with C++ and Qt6  
+  A long-running project focused on UI/UX clarity, application structure, data integrity, and iterative refinement.
+
+- **AI Chat GUI** — a local desktop interface for interacting with LLMs  
+  Focused on C++ ↔ QML integration, async communication, performance issues, and real-world configuration challenges (CUDA, llama.cpp, GPU offloading).
+
+These projects were treated not as demos, but as **real applications**, with attention to architecture, design, stability, and long-term maintainability.
+
+## Non-public Development
+
+Alongside public repositories, I worked on several **small, practical tools** and experiments:
+- CLI and GUI utilities  
+- Task-specific solutions developed for learning and freelance exploration  
+- Internal projects that prioritized problem-solving over presentation
+
+Not all of this work is public — intentionally.  
+The focus was on **engineering growth**, not exposure.
+
+## What Changed This Year
+
+My approach shifted from exploration to intention:
+- from learning isolated concepts → to building systems  
+- from starting many ideas → to finishing and polishing  
+- from code-for-code → to usability, structure, and reliability
+
+I began thinking more like an engineer:
+how software behaves over time, how users interact with it, and how small decisions compound.
+
+## Key Lessons
+
+- A few well-developed projects say more than many abandoned ones  
+- Real problems teach faster than artificial exercises  
+- Finishing and refining builds confidence  
+- Software quality is the result of iteration, not inspiration
+
+## Looking Forward
+
+The next step is simple and clear:
+continue building desktop tools, expand the public portfolio thoughtfully, and deepen engineering discipline.
+
+No rush. No shortcuts.  
+Just steady, deliberate progress.
